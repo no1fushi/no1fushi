@@ -38,50 +38,50 @@ By Alan Curtis Kay (アラン・カーティス・ケイ)
 ## 📝Skill
 ### OS
 <p>
-<img src="https://img.shields.io/badge/-Ubuntu-7f1184.svg?logo=ubuntu&style=plastic">
-<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
-<img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic">
+<img src="https://img.shields.io/badge/-Ubuntu-7f1184.svg?logo=ubuntu&style=popout">
+<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout">
+<img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=popout">
 </p>
 
 ### Editor
 <p>
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visualstudiocode&style=plastic">
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
+<img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visualstudiocode&style=popout">
 </P>
 
 ### Lang / Framework 
 <p>
-<img src="https://img.shields.io/badge/-C%20Lang-F1B92B.svg?logo=C&style=plastic">
-<img src="https://img.shields.io/badge/-Java-007396.svg?logo=oracle&style=plastic">
-<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
-<img src="https://img.shields.io/badge/-Python-FFE873.svg?logo=python&style=plastic">
-<img src="https://img.shields.io/badge/-Bash-000.svg?logo=linux&style=plastic">
-<img src="https://img.shields.io/badge/-MySQL-F1B92B.svg?logo=mysql&style=plastic">
-<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
+<img src="https://img.shields.io/badge/-C%20Lang-F1B92B.svg?logo=C&style=popout">
+<img src="https://img.shields.io/badge/-Java-007396.svg?logo=oracle&style=popout">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=popout">
+<img src="https://img.shields.io/badge/-Python-FFE873.svg?logo=python&style=popout">
+<img src="https://img.shields.io/badge/-Bash-000.svg?logo=linux&style=popout">
+<img src="https://img.shields.io/badge/-MySQL-F1B92B.svg?logo=mysql&style=popout">
+<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=popout">
 </p>
 <p>
-<img src="https://img.shields.io/badge/-Html5-F1B92B.svg?logo=html5&style=plastic">
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
-<img src="https://img.shields.io/badge/-Javascript-F1B92B.svg?logo=javascript&style=plastic">
-<img src="https://img.shields.io/badge/-Typescript-4FC08D.svg?logo=typescript&style=plastic">
-<img src="https://img.shields.io/badge/-GoogleAppScript-FFC107.svg?logo=google-drive&style=plastic">
-<img src="https://img.shields.io/badge/-Node.js-1572B6.svg?logo=node.js&style=plastic">
-<img src="https://img.shields.io/badge/-Vue.js-007396.svg?logo=vue.js&style=plastic">
-<img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=plastic">
+<img src="https://img.shields.io/badge/-Html5-F1B92B.svg?logo=html5&style=popout">
+<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
+<img src="https://img.shields.io/badge/-Javascript-F1B92B.svg?logo=javascript&style=popout">
+<img src="https://img.shields.io/badge/-Typescript-4FC08D.svg?logo=typescript&style=popout">
+<img src="https://img.shields.io/badge/-GoogleAppScript-FFC107.svg?logo=google-drive&style=popout">
+<img src="https://img.shields.io/badge/-Node.js-1572B6.svg?logo=node.js&style=popout">
+<img src="https://img.shields.io/badge/-Vue.js-007396.svg?logo=vue.js&style=popout">
+<img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=popout">
 </p>
 
 ### Tool / App
 <p>
-<img src="https://img.shields.io/badge/-Arduino-007396.svg?logo=arduino&style=plastic">
-<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
-<img src="https://img.shields.io/badge/-Vagrant-1563FF.svg?logo=vagrant&style=plastic">
-<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic">
-<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=plastic">
-<img src="https://img.shields.io/badge/-Git-181717.svg?logo=git&style=plastic">
+<img src="https://img.shields.io/badge/-Arduino-007396.svg?logo=arduino&style=popout">
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=popout">
+<img src="https://img.shields.io/badge/-Vagrant-1563FF.svg?logo=vagrant&style=popout">
+<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=popout">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=popout">
+<img src="https://img.shields.io/badge/-Git-181717.svg?logo=git&style=popout">
 </p>
 
 ### While studying
 <p>
-<img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">
-<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
+<img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=popout">
+<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=popout">
 </p>
