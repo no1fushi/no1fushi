@@ -1,7 +1,13 @@
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/6259980?v=4" width="100"/>
-  <p>Icon created by <a href="https://twitter.com/Weiss_p1">うぇいす</a> </p>
+  <a href="https://github.com/no1fushi/"><img src="https://avatars.githubusercontent.com/u/6259980?v=4" width="100"/></a>
+  <p>
+    <a href="https://www.youtube.com/channel/UC0V4CrmQTmNeGlyQx5uTclA"><img src="https://img.shields.io/badge/-Youtube-FF0000.svg?logo=youtube&style=plastic"></a>
+    <a href="https://www.nicovideo.jp/user/31627779"><img src="https://img.shields.io/badge/-NicoNico-000.svg?logo=niconico&style=plastic"></a>
+    <a href="https://soundcloud.com/no1fushi"><img src="https://img.shields.io/badge/-Soundcloud-000.svg?logo=soundcloud&style=plastic"></a>
+    <a href="https://www.pixiv.net/users/6218385/"><img src="https://img.shields.io/badge/-Pixiv-007CC3.svg?logo=pixiv&style=plastic"></a>
+  </p>
+  <p>Profile icon created by <a href="https://twitter.com/Weiss_p1">うぇいす</a></p>
 </div>
 
 # 👋 Hi I'm Katochan
@@ -79,4 +85,3 @@ By Alan Curtis Kay (アラン・カーティス・ケイ)
 <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">
 <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
 </p>
-
