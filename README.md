@@ -40,7 +40,6 @@ By Alan Curtis Kay (アラン・カーティス・ケイ)
 <p>
 <img src="https://img.shields.io/badge/-Ubuntu-7f1184.svg?logo=ubuntu&style=popout">
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout">
-<img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=popout">
 </p>
 
 ### Editor
